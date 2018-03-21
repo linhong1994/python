@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1052</width>
+    <height>758</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>快速建站</string>
+  </property>
+  <property name="sizeGripEnabled">
+   <bool>true</bool>
+  </property>
+  <widget class="QTabWidget" name="tabWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>651</width>
+     <height>551</height>
+    </rect>
+   </property>
+   <property name="currentIndex">
+    <number>0</number>
+   </property>
+   <widget class="QWidget" name="tab">
+    <attribute name="title">
+     <string>快速搭建</string>
+    </attribute>
+    <widget class="QWidget" name="horizontalLayoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>0</y>
+       <width>631</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="pb_deldata">
+        <property name="text">
+         <string>清空数据</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_scbjt">
+        <property name="text">
+         <string>删除背景图</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_scfl">
+        <property name="text">
+         <string>删除分类</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_scwz">
+        <property name="text">
+         <string>删除文章</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_scxc">
+        <property name="text">
+         <string>删除相册</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="horizontalLayoutWidget_4">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>240</y>
+       <width>631</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_4">
+      <item>
+       <widget class="QLabel" name="label_5">
+        <property name="text">
+         <string>文章</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_wzfl1">
+        <property name="text">
+         <string>行业动态</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_upwz1">
+        <property name="text">
+         <string>上传文章1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_wzfl2">
+        <property name="text">
+         <string>产品相关</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_upwz2">
+        <property name="text">
+         <string>上传文章2</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="horizontalLayoutWidget_7">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>120</y>
+       <width>631</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_7">
+      <item>
+       <widget class="QLabel" name="label_4">
+        <property name="enabled">
+         <bool>true</bool>
+        </property>
+        <property name="text">
+         <string>相册</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_xcfl1">
+        <property name="text">
+         <string>相关展示</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_upxc1">
+        <property name="text">
+         <string>上传相册1</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_xcfl2">
+        <property name="text">
+         <string>产品展示</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_upxc2">
+        <property name="text">
+         <string>上传相册2</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="horizontalLayoutWidget_8">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>180</y>
+       <width>631</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_8">
+      <item>
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>分类</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_fl1">
+        <property name="text">
+         <string>公司简介</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_fl2">
+        <property name="text">
+         <string>相关资讯</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="le_fl3">
+        <property name="text">
+         <string>相关展示</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_onebuild">
+        <property name="text">
+         <string>一键创建</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QPlainTextEdit" name="pte_jj">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>350</y>
+       <width>631</width>
+       <height>171</height>
+      </rect>
+     </property>
+     <property name="undoRedoEnabled">
+      <bool>true</bool>
+     </property>
+     <property name="overwriteMode">
+      <bool>false</bool>
+     </property>
+    </widget>
+    <widget class="QWidget" name="horizontalLayoutWidget_3">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>300</y>
+       <width>631</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <item>
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>简介</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_upwz">
+        <property name="text">
+         <string>上传文章</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_upjj">
+        <property name="text">
+         <string>上传简介</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="horizontalLayoutWidget_5">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>631</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_5">
+      <item>
+       <widget class="QPushButton" name="pb_upsybj">
+        <property name="text">
+         <string>上传首页背景</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_smb">
+        <property name="text">
+         <string>上模板</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_xmb">
+        <property name="text">
+         <string>下模板</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="pb_zmb">
+        <property name="text">
+         <string>左模板</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="tab_2">
+    <attribute name="title">
+     <string>企业信息</string>
+    </attribute>
+    <widget class="QWidget" name="formLayoutWidget">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>641</width>
+       <height>521</height>
+      </rect>
+     </property>
+     <layout class="QFormLayout" name="formLayout">
+      <property name="fieldGrowthPolicy">
+       <enum>QFormLayout::AllNonFixedFieldsGrow</enum>
+      </property>
+      <item row="0" column="0">
+       <widget class="QLabel" name="label_6">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>31</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>公司简称</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLineEdit" name="le_gsjc">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>31</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label_8">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>31</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>黄页分类</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QLineEdit" name="le_hyfl">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>31</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="label_7">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>31</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>快速登录</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QLineEdit" name="le_ksdl">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>31</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="label_11">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>31</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>公司地址</string>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QLineEdit" name="le_gsdz">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>31</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="label_9">
+        <property name="minimumSize">
+         <size>
+          <width>80</width>
+          <height>31</height>
+         </size>
+        </property>
+        <property name="text">
+         <string>审　　核</string>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QPlainTextEdit" name="pte_sh">
+        <property name="minimumSize">
+         <size>
+          <width>0</width>
+          <height>360</height>
+         </size>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QWebView" name="webView">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>60</y>
+     <width>381</width>
+     <height>691</height>
+    </rect>
+   </property>
+   <property name="url">
+    <url>
+     <string>about:blank</string>
+    </url>
+   </property>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>660</x>
+     <y>10</y>
+     <width>381</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item alignment="Qt::AlignHCenter">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>实时视图</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="refreshweb">
+      <property name="text">
+       <string>刷新</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPlainTextEdit" name="pte_log">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>560</y>
+     <width>301</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="plainText">
+    <string>操作日志</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_6">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>560</y>
+     <width>331</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QPushButton" name="pb_up1">
+      <property name="text">
+       <string>提交1.0</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pb_up2">
+      <property name="text">
+       <string>提交2.0</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pb_up3">
+      <property name="text">
+       <string>提交3.0</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pb_up4">
+      <property name="text">
+       <string>提交4.0</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pb_giveup">
+      <property name="text">
+       <string>放弃</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>QWebView</class>
+   <extends>QWidget</extends>
+   <header>QtWebKit/QWebView</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>pb_deldata</tabstop>
+  <tabstop>le_xcfl1</tabstop>
+  <tabstop>pb_upxc1</tabstop>
+  <tabstop>le_xcfl2</tabstop>
+  <tabstop>pb_upxc2</tabstop>
+  <tabstop>le_fl1</tabstop>
+  <tabstop>le_fl2</tabstop>
+  <tabstop>le_fl3</tabstop>
+  <tabstop>pb_onebuild</tabstop>
+  <tabstop>le_wzfl1</tabstop>
+  <tabstop>pb_upwz1</tabstop>
+  <tabstop>le_wzfl2</tabstop>
+  <tabstop>pb_upwz2</tabstop>
+  <tabstop>pte_jj</tabstop>
+  <tabstop>pb_upjj</tabstop>
+  <tabstop>refreshweb</tabstop>
+  <tabstop>pb_up1</tabstop>
+  <tabstop>pb_up2</tabstop>
+  <tabstop>pb_up3</tabstop>
+  <tabstop>pb_up4</tabstop>
+  <tabstop>pte_log</tabstop>
+  <tabstop>webView</tabstop>
+  <tabstop>le_gsjc</tabstop>
+  <tabstop>tabWidget</tabstop>
+  <tabstop>le_ksdl</tabstop>
+  <tabstop>le_hyfl</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>pb_deldata</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_deldata</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>48</x>
+     <y>57</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>112</x>
+     <y>57</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_smb</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_smb</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>323</x>
+     <y>107</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>323</x>
+     <y>107</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_xmb</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_xmb</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>482</x>
+     <y>107</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>482</x>
+     <y>95</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_zmb</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_zmb</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>107</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>641</x>
+     <y>98</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_onebuild</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_onebuild</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>227</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>641</x>
+     <y>227</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upsybj</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upsybj</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>164</x>
+     <y>107</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>164</x>
+     <y>107</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upwz</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upwz</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>429</x>
+     <y>335</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>429</x>
+     <y>335</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upwz1</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upwz1</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>342</x>
+     <y>287</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>342</x>
+     <y>287</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upwz2</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upwz2</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>287</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>641</x>
+     <y>287</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upxc1</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upxc1</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>342</x>
+     <y>167</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>342</x>
+     <y>167</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upxc2</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upxc2</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>167</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>641</x>
+     <y>167</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_up2</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_up2</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>649</x>
+     <y>611</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>649</x>
+     <y>611</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_up3</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_up3</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>649</x>
+     <y>665</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>649</x>
+     <y>665</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pte_log</sender>
+   <signal>textChanged()</signal>
+   <receiver>pte_log</receiver>
+   <slot>selectAll()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>275</x>
+     <y>575</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>310</x>
+     <y>687</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>refreshweb</sender>
+   <signal>clicked()</signal>
+   <receiver>refreshweb</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1039</x>
+     <y>41</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>923</x>
+     <y>38</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_upjj</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_upjj</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>641</x>
+     <y>345</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>641</x>
+     <y>347</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_up4</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_up4</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>429</x>
+     <y>705</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>524</x>
+     <y>705</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_up1</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_up1</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>437</x>
+     <y>564</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>513</x>
+     <y>564</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_giveup</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_giveup</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>405</x>
+     <y>736</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>554</x>
+     <y>734</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_scbjt</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_scbjt</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>188</x>
+     <y>53</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>216</x>
+     <y>56</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_scfl</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_scfl</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>333</x>
+     <y>52</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>356</x>
+     <y>50</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_scwz</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_scwz</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>437</x>
+     <y>51</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>482</x>
+     <y>53</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pb_scxc</sender>
+   <signal>clicked()</signal>
+   <receiver>pb_scxc</receiver>
+   <slot>click()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>553</x>
+     <y>49</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>600</x>
+     <y>53</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
