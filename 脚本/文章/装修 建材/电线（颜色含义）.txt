@@ -1,0 +1,21 @@
+﻿<div class="showpic" style="text-align:center;margin:0px;padding:0px;line-height:normal;white-space:normal;">
+	<img src="http://37t.cn/uploads/z/zfgrgp1436316174/e/d/8/b/thumb_559c9a5809be0.jpg" style="width:362px;margin-top:5px;" />
+</div>
+<p>
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;"><span style="font-family:SimSun;font-size:16px;line-height:24px;white-space:normal;">来源：百度百科</span><br />
+</span>
+	</p>
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;">　　黑、白、绿、红、蓝、橙、棕和灰，电线外面的绝缘护套颜色通常都有自己的指代意义。所以，在摆弄新灯具时，除了关掉断路器之外，还要确定你接下来要碰到的每根带颜色的电线都有什么含义。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　美国的居民用电开始并没有系统的颜色编码，甚至都没有正确使用的一套标准。1879年，当爱迪生第一次引入电灯后不久，保险行业开始发放一些安全指南。第一套正式的指南出现于1881年，内容包括编址容量、绝缘及安装。但没有对电线颜色进行分类。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　1882年，美国国家火灾保险商委员会(NBFU)也曾采用过早期的安全规章。1893年，全国保险电力协会开始试图把各个州不同的电气装置准则和规范统一起来，提出了为建筑布线的电灯和电源装置的全国性编码标准。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第一个国家电气规范(NEC)是NBFU在1897年提出的，它也忽略了电线颜色问题的规范化。后来在1928年，NEC更新改版，其中有一个要求是建立接地线颜色的规范，就是后来的白色或天然灰，还禁止这些颜色应用于活线和中性线。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　更进一步的颜色编码是NEC在1937年推出的新版，把用色彩编码了的线利用与“多分支电路”，并且规定三个分支的电路的线要用黑色、红色和白色。更多分支的可以加入别的颜色，比如黄色和蓝色。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　1953年，NEC改变了接地线的颜色，变为绿色或是裸线。绿色也被禁止用于电路线(比如活线和中性线)。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　NEC的1971年版本把彩色多支路编码给跑起来，虽然白色、天然灰、绿色和黄绿条纹仍然保留，这些颜色也被禁止用于接地线。这次的规范丢掉了通路电线的刻板的颜色编码要求，因为没有足够的颜色来让系统、电压与电路区分。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　日前的美国，接地线是绿色、黄绿条纹或是裸线，中性线应该是白色或灰色，电路线可能是黑色、红色、蓝色、黄色、橙色或黄色，具体什么颜色取决于电压。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　这些颜色标准是美国的，其他国家代码不一样(加拿大的与美国很相似)。比如，澳大利亚和新西兰和美国的接地线颜色相同，他们的中性线是蓝色或黑色。而且，活线可用任何除接地线和中性线之外的颜色。红色和棕色是单相线的推荐色，红色、白色和蓝色是多相流带电的电线推荐色。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　英国最新(2004)改变了遵守国际电工委员会(EC)的系统。他们的接地线颜色(黄绿条纹)保持不变，中性线颜色从原来的黑色变成了蓝色。同样的，以前单相电线是红色然而却变成了棕色。除此之外，英国的多相线路标记和着色也改变了：L1由红变棕，L2由黄变黑，L3由蓝变灰。</span>
+	</p>
+</p>

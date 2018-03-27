@@ -1,0 +1,18 @@
+﻿<div class="showpic" style="text-align:center;margin:0px;padding:0px;line-height:normal;white-space:normal;">
+	<img src="http://37t.cn/uploads/f/fxsuvv1437041134/3/4/9/7/thumb_55a850ba979cc.png" style="width:362px;margin-top:5px;" />
+</div>
+<div class="text" id="content" style="margin:15px 0px;padding:0px;line-height:normal;white-space:normal;">
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;">　　窗材质的选择　</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　选一扇好窗户，不亚于选一个好房间，材质、工艺、结构、形式，以及一些细致入微的方方面面都要考虑得到。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　我们经常会首先注意到的第一个问题总会是——材质。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　对于窗户的材质，并不难选择，总的来说，可分成三大类——木质、塑钢、铝合金。三者各有所长。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　1、塑钢——因为是塑料材质，所以重量小，隔热性能好，而且价格相对较低。因为经常要面对风吹雨打太阳晒，所以最让人关心的是塑钢窗的防老化问题。实际上，高品质的塑钢窗的使用年限可达一百年左右。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　2、铝合金——因为是金属材质，所以不会存在老化问题，而且坚固，耐撞击，强度大。但铝合金窗最容易被攻击的一个弱点就是隔热性能，因为金属是热的良导体，外界与室内的温度会随着窗的框架传递。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　但值得疑问的是，在一扇窗户上框架所占的比例并不很大，窗户并不是一块金属板，而是镶着框的玻璃，通过框架边条传递的热量究竟会对有着暖器、空调的室内温度产生多大的影响？</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　但还是有备无患的好，为了防止这个问题，在有的铝合金窗户上采用了“断桥”技术，即在铝合金窗框中加一层树脂材料，彻底断绝了导热的途径。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　3、木质——相对来说，木质应该是最为完美的窗体框架材质，无论从隔热、隔音等角度来说都有明显的优势，而且与生俱来的质感和自然花纹更为让人心动。虽然是木质，但实际上有的用于做窗框的实木已经经过了层层特殊的处理，不仅没有了水分，要求更高的甚至被吸去了脂肪，这样一来，所谓的木质实际上已经如同化石一样，经过处理后的实木，只保留了木材的外表，品质却完全不一样了，不会开裂变形，更不用担心遭虫咬、被腐蚀，而且，强度也大大增加。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　此外，还有一种框架结构被称作铝包木，木质框架的户外部分为一层铝合金结构，实际上，这是综合了木质框架的隔热性好以及铝合金强度高的优点，合二为一，扬长避短。木质窗唯一的一个缺点就是造价太高。</span><br />
+<span style="font-size:16px;font-family:SimSun;">&lt;来源：百度百科&gt;</span>
+	</p>
+</div>

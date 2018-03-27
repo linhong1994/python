@@ -1,0 +1,20 @@
+﻿<p style="text-align:center;">
+	<span style="font-size:16px;font-family:SimSun;"><img src="/uploads/t/tuupjf1437786738/c/5/6/1/55b2e47cc6f73.png" alt="" /><br />
+</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　玻璃是一种无规则结构的非晶态固体（从微观上看，玻璃也是一种液体），其分子不像晶体那样在空间具有长程有序的排列，而近似于液体那样具有短程有序。玻璃像固体一样保持特定的外形，不像液体那样随重力作用而流动。</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　各向同性</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　玻璃的分子排列是无规则的，其分子在空间中具有统计上的均匀性。在理想状态下，均质玻璃的物理、化学性质（如折射率、硬度、弹性模量、热膨胀系数、导热率、电导率等）在各方向都是相同的。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　无固定熔点</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　玻璃由固体转变为液体是一定温度区域（即软化温度范围）内进行的，它与结晶物质不同，没有固定的熔点。软化温度范围Tg~T1，Tg为转变温度，T1为液相线温度，对应的黏度分别为1013.4 dPa·s、104~6dPa·s。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　介稳性</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　玻璃态物质一般是由熔融体快速冷却而得到，从熔融态向玻璃态转变时，冷却过程中黏度急剧增大，质点来不及做有规则排列而形成晶体，没有释出结晶潜热，因此，玻璃态物质比结晶态物质含有较高的内能，其能量介于熔融态和结晶态之间，属于亚稳状态。从力学观点看，玻璃是一种不稳定的高能状态，比如存在低能量状态转化的趋势，即有析晶倾向，所以，玻璃是一种亚稳态固体材料。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　渐变性可逆性</span><br />
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　玻璃态物质从熔融态到固体状态的过程是渐变的，其物理、化学性质的变化也是连续的和渐变的。这与熔体的结晶过程明显不同，结晶过程必然出现新相，在结晶温度点附近，许多性质会发生突变。而玻璃态物质从熔融状态到固体状态是在较宽温度范围内完成的，随着温度逐渐降低，玻璃熔体黏度逐渐增大，最后形成固态玻璃，但是过程中没有新相形成。相反玻璃加热变为熔体的过程也是渐变的。</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">&lt;来源：百度百科&gt;</span>
+</p>

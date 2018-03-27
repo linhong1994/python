@@ -1,0 +1,38 @@
+﻿<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;white-space:normal;text-align:center;">
+	<img src="http://37t.cn/uploads/b/bfwqkf1433139669/7/3/b/c/556c0f15cf0c6.png" alt="" style="max-width:100%;" />
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;white-space:normal;">
+	<span style="font-size:16px;font-family:SimSun;">来源：百度百科</span>
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;white-space:normal;">
+	<span style="font-size:16px;font-family:SimSun;">　　根据陈绍宽《鉴茶、泡茶、品茶全书》中的茶的制造方法分类，可以分为不发酵的绿茶；轻发酵的清茶；重（半）发酵的乌龙茶；全发酵的红茶四类。</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　绿茶的发酵程度为0%，主要的成茶有龙井、瓜片，碧螺春茶，毛峰茶、云雾茶等；</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　清茶的发酵程度在15%，主要的成茶有包种茶、白毫银针茶、白牡丹茶、香片等；</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　乌龙茶的发酵程度在15%~50%，主要的成茶有武夷岩茶、大红袍、冻顶乌龙茶、高山茶、铁观音等；</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　红茶的发酵程度在100%，主要的成茶祁红、滇红等 。</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　（茶从不同角度有不同分类：</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　一、以色泽分类： 1.绿茶 2.白茶 3.青茶 4.黑茶 5.黄茶 6.红茶</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　二、发酵程度分类： 1.不发酵 (绿茶) 2.半发酵 (青茶) 3.全发酵 (红茶) 4.后发酵 (黑茶)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　1.绿茶不发酵(狮峰龙井、碧螺春、黄山毛峰)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　2.白茶 (白毫显露，白毫银针 , 白牡丹、寿眉等) 5~10% ;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　3.青茶 (安溪的铁观音、武夷大红袍、台湾乌龙茶等) 15~20%;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　4.包种茶(台湾北部包种茶/台湾文山包种茶等) 30~40%;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　5.乌龙茶(闽北乌龙/闽南乌龙/台湾乌龙/广东乌龙等) 60~70%;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　6.黑茶 (湖南黑茶/湖北老青茶/四川边茶/滇桂黑茶) 80% ;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　7.黄茶 (银针/黄芽/毛尖/黄汤/黄大茶/大叶青/海马宫等) 85% ;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　8.红茶 (大红袍/印度大吉岭/阿萨姆/锡兰等) 95% ;</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　三、焙火程度来分类： 1.轻火(生茶) 2.中火(半熟茶) 3.重火(熟茶)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　四、以季节分类： 1.春茶 2.夏茶 3.秋茶 4.冬茶</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　五、萎凋程度不同分类： 1.绿茶不萎凋不发酵； 2.黑茶不萎凋后发酵；</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　3.黄茶不萎凋不发酵(杀青后闷黄再补足发酵的);</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　4.白茶重萎凋不发酵； 5.青茶萎凋部份发酵。</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　不萎凋茶： 绿茶、黑茶、黄茶</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　萎凋茶 ： 白茶、青茶、包种茶、乌龙茶、红茶</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　六、再加工茶类：</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　1.花茶 (茉莉花茶、珠圭花茶、玫瑰花茶、桂花茶等)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　2.紧压茶 (黑砖、茯砖、方茶、饼茶等)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　3.萃取茶 (速溶茶、浓缩茶等)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　4.果味茶 (荔枝红茶、柠檬红茶、狝猴桃茶等)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　5.药用保健茶 (减肥茶、杜仲茶、甜菊茶等)</span><br style="line-height:normal;white-space:normal;" />
+<span style="font-size:16px;font-family:SimSun;">　　6.含茶饮料 (统一、康师傅茶等)</span>

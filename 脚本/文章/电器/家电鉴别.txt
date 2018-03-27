@@ -1,0 +1,38 @@
+﻿<p style="text-align:center;margin:0px;padding:0px;line-height:normal;white-space:normal;">
+	<img src="http://37t.cn/uploads/t/tquypy1435021071/7/4/4/4/5588b94a28e92.jpg" alt="" style="line-height:24px;white-space:normal;max-width:100%;" /><span style="font-size:16px;font-family:SimSun;"></span>
+</p>
+<p style="text-align:left;margin:0px;padding:0px;line-height:normal;white-space:normal;">
+	<span style="font-size:16px;font-family:SimSun;">来源：百度百科</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　怎样鉴定彩色电视机</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　1.色度旋纽旋到最小，调节亮度，对比度，图像清晰柔和，层次分明。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　色度旋纽调大，由黑白变为彩色图像过度期间，不应出现色彩混乱流动现象。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　调出最情晰图像后，继续转动频率微调钮，图像会变得粗糙失真，合上频率自微调开关，图像应立即恢复情晰。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　观察色彩是否自然协调。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　处环境干扰外，画面上出现波状，网纹，条带均属不正常现象。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　音量适当调大，声音悦耳不失真。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　调节量度，对比度旋纽应有明显作用。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　依次掀动预选器，画面只轻微闪动。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　关下电源开关，屏幕不留光带或光点。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　怎样鉴别电冰箱的优劣</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　鉴定时先看外形，注意造型色彩，漆膜有否剥落和光洁不均的现象。接上电源，调节温度，宜调至第二档。让自动控制器作自停，自开多次，检查温控装置是否可靠有效，然后检查压缩机的运转是否正常和噪音大小，这时再将调节旋纽旋至“不停”位置，半小时后蒸发器内即可出现霜水，就此检查蒸发器四壁是否均匀，散热是否一样，最后检查门是否关得严和灵活。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　如何鉴别电饭煲的优劣</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　先把内煲（或称内胆）放进外壳，左右转动数次，检查内煲与外壳底部的发热板是否吻合，吻合的使用效率就高。接上电源后，用手指碰触外壳，不应有发麻的感觉（漏电）。按下煮饭开关五分钟后，内煲底部的温度约为103度，这时，限温器触点应能自动断开，煮饭开关弹起，转入60摄氏度的保温状态。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　好的冰箱，电源接通就能启动运转，并且声音和振动很小，几乎不容易察觉。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　压缩机运转，电冰箱会微微颤动，并听到运行噪声，但噪声不应高于45dB，即在安静的环境中，只能听到压缩机轻的嗡嗡声，在离冰箱约一米远处，应听不到声音。手摸箱体，不应有明显的振动。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　快速鉴别冰箱温控器</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　先将温控开关旋至“强冷”档（必须在五分钟以后），此时压缩机开始工作。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　待5－－7分钟，将开关旋至“弱冷”档，压缩机应停止工作，同时开关会有“的嗒”一声。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　再等五分钟，将开关拨至原“强冷”档，压缩机应工作，此时便。可认为此温控器正常。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　怎样鉴定全自动洗衣机</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　搞清控制该台洗衣机程序控制器是机械凸轮式还是电脑式。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　试机，观察其进入，洗涤，排水，甩干应和说明书规定的时间相符。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　在指针转到“甩干”程序时，把上盖板打开，洗涤甩干筒应在10秒钟停止转动。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　如何鉴别电风扇的优劣</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　1，看样式。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　2，看外观：外形上除了美观大方，还要看喷漆和镀铬是否光滑，平直，无皱纹等，叶片转动应平稳3.测性能：看开启键是否利嗦，测试摇头和定时器是否灵，控制准确，风力有无差别，叶片平稳，无声响，不漏电，温升正常。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　石英电子表优劣鉴别</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　看外观良好后，将表把拉出至拨针位置，秒针应立即停止跳动，针尖刚好对着分点刻度，正反方向拨针时，秒针都应停止不动。推回表把一秒钟后，秒针应立即恢复跳动，走时，秒针每跳动一次应刚好是一格，秒针与玻璃表面无碰擦现象。</span><br />
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;white-space:normal;">
+	<br />
+</p>

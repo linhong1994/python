@@ -1,0 +1,25 @@
+﻿<p style="text-align:center;">
+	<img src="http://i1.tietuku.com/0eae9a3417b69c4as.jpg" alt="QQ截图20150710114133_看图王" /><span style="font-size:16px;font-family:SimSun;"></span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">来源：百度百科</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">措施</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　电气火灾通常是因为电气设备的绝缘老化、接头松动、过载或短路等因素导致过热而引起的。尤其是在易燃易爆场所，上述电气线路隐患危害更大。为防止电气火灾事故的发生，必须采取防火措施。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(1) 经常检查电气设备的运行情况，检查接头是否松动，有无电火花发生，电气设备的过载、短路保护装置性能是否可靠，设备绝缘是否良好。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(2) 合理选用电气设备。有易燃易爆物品的场所，安装使用电气设备时，应选用防爆电器，绝缘导线必须密封敷设于钢管内。应按爆炸危险场所等级选用、安装电器设备。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(3) 保持安全的安装位置。保持必要的安全间距是电气防火的重要措施之一。为防止电气火花和危险高温引起火灾，凡能产生火花和危险高温的电气设备周围不应堆放易燃易爆物品。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(4) 保持电气设备正常运行。电气设备运行中产生的火花和危险高温是引起电气火灾的重要原因。为控制过大的工作火花和危险高温，保证电气设备的正常运行，应由经培训考核合格的人员操作使用和维护保养。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(5) 通风。在易燃易爆危险场所运行的电气设备，应有良好的通风，以降低爆炸性混合物的浓度。其通风系统应符合有关要求。</span><br />
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　(6) 接地。在易燃易爆危险场所的接地比一般场所要求高。不论其电压高低，正常不带电装置均应按有关规定可靠接地。</span>
+</p>
+<p>
+	<br />
+</p>
+<span style="font-size:16px;font-family:SimSun;">灭火规则</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(1) 电气设备发生火灾时，着火的电器、线路可能带电，为防止火情蔓延和灭火时发生触电事故，发生电气火灾时应立即切断电源。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(2) 因生产不能停顿，或因其他需要不允许断电，必须带电灭火时，必须选择不导电的灭火剂，如二氧化碳灭火器、1211灭火器、二氟二溴甲烷灭火器等进行灭火。灭火时救火人员必须穿绝缘鞋和戴绝缘手套。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　(3) 灭火时的最短距离。用不导电灭火剂灭火时，10kV电压，喷嘴至带电体的最短距离不应小于0.4m；35kV电压，喷嘴至带电体的最短距离不应小于0.6m。若用水灭火，电压在110kV及以上，喷嘴与带电体之间必须保持3m以上；220KV及以上者，应不小于5m。</span><br />

@@ -1,0 +1,39 @@
+﻿<div class="page-bizinfo" style="margin:0px;padding:15px 9px 0px 10px;line-height:normal;white-space:normal;">
+	<div class="showpic" style="text-align:center;margin:0px;padding:0px;">
+		<img src="http://37t.cn/uploads/e/ezhrcv1433553056/9/2/9/a/thumb_55729f10291ef.jpg" style="width:621px;margin-top:5px;" />
+	</div>
+	<div class="text" id="content" style="margin:15px 0px;padding:0px;">
+		<p class="MsoNormal" style="margin:3.75pt 0cm;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">来源：七丽女性网</span><o:p></o:p>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">&nbsp;</span>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm 12pt;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">步骤1、选用温和卸妆品</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　在清洁肌肤之前，首先得卸妆，卸妆时要尽量选用温和一点的卸妆产品，你们纯植物油配方的卸妆油，或是质地醇厚的卸妆乳等，那样会留下一层油性保护膜，能减少肌肤的水分流失。</span><o:p></o:p>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm 12pt;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">步骤2、快速卸妆</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　把卸妆产品擦在脸上后一定要快速卸妆，最好不要超过1分钟。因为停留的时间过长，会导致脸上的角质层软化被磨损，那样很容易流失水分而使肌肤干燥。</span><o:p></o:p>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm 12pt;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">步骤3、二次清洁</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　别以为用卸妆产品卸妆之后就可以了，一定要用洁面乳进行二次清洁，那样可以清洗掉残留在肌肤上的卸妆产品以及油脂等，以免堵塞毛孔，导致肌肤干燥粗糙等问题。</span><o:p></o:p>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm 12pt;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">步骤4、控制水流水温</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　无论是卸妆还是二次清洁，冲洗肌肤的水温都要调节好，不宜过高，否则容易对皮肤的屏障功能造成伤害。另外，最好是选用流动的活水，防止洗掉的脏物再次回到脸上。</span><o:p></o:p>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm 12pt;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">步骤5、温和渗透清洁</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　经过以上步骤，如果你觉得脸部还是没有清洁干净，那你可以再加一个深层的渗透清洁步骤!用化妆水沾湿化妆棉，然后用化妆棉以轻压打圈的手法清洁脸部死角，干净又保湿。</span><o:p></o:p>
+		</p>
+		<p class="MsoNormal" align="left" style="margin:3.75pt 0cm;padding:0px;line-height:13.5pt;table-layout:fixed;">
+			<span style="font-size:16px;font-family:SimSun;">步骤6、调理角质层</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　清洁后的肌肤表面失去了皮脂保护，很容易变得干燥缺水，为了保持肌肤水润，洁面之后一定要马上使用化妆水或美容液来调理角质层，可以补充水分和保湿物质，调节酸碱值平衡。</span><o:p></o:p>
+		</p>
+	</div>
+</div>
+<div class="list" style="margin:10px;padding:10px 15px;border:0px solid #D1D1D1;box-shadow:rgba(0, 0, 0, 0.14902) 0px 1px 2px 0px;-webkit-box-shadow:rgba(0, 0, 0, 0.14902) 0px 1px 2px 0px;border-radius:5px;line-height:normal;white-space:normal;">
+</div>

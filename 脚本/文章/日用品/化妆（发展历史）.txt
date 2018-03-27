@@ -1,0 +1,13 @@
+﻿<div class="showpic" style="margin:0px;padding:0px;line-height:normal;white-space:normal;">
+	<img src="http://37t.cn/uploads/f/ftxjcj1434937122/9/3/9/f/thumb_55876d026a19c.png" style="width:621px;margin-top:5px;" />
+</div>
+<div class="text" id="content" style="margin:15px 0px;padding:0px;line-height:normal;white-space:normal;">
+	<span style="font-size:16px;font-family:SimSun;">　　爱美是人类的天性，早在原始时期，人类就开始用一些特别的东西来装饰自己，使自己变得更加美丽。考古学家曾在原始人类的遗址上发现用小石子、贝壳或兽牙等物制作而成的美丽的串珠，用于装饰；在洞穴壁画上发现了美容化妆的痕迹。了解一些过去的东西，也许会对你的生活有好处！用自己的感受，体会一下“以史为镜”的涵义！</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　据说画眉之风起于战国，在还没有特定的画眉材料之前，妇女用柳枝烧焦后涂在眉毛上。古代妇女画眉所用的材料，随着时代的发展而变化。从文</span><span style="font-size:16px;font-family:SimSun;">献记载来看，最早的画眉材料是黛，黛是一种黑色矿物，也称“石黛”。描画前必须先将石黛放在石砚上磨碾，使之成为粉末，然后加水调和。磨石黛的石砚在汉墓里多有发现，说明这种化妆品在汉代就已经在使用了。除了石黛，还有铜黛、青雀头黛和螺子黛。铜黛是一种铜锈状的化学物质。青雀头黛是一种深灰色的画眉材料，在南北朝时由西域传入。</span><br />
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;">　　螺子黛则是隋唐时代妇女的画眉材料，出产于波斯国，它是一种经过加工制造，已经成为各种规定形状的黛块。使用时只用蘸水即可，无需研磨，因为它的模样及制作过程和书画用的墨锭相似，所以也被称为“石墨”，或称“画眉墨”。到了宋代，画眉墨的使用更加广泛，妇女们已经很少再使用石黛。关于画眉墨的制作方法，宋人笔记中也有叙述，例如《事林广记》中说：“真麻油一盏，多着灯心搓紧，将油盏置器水中焚之，覆以小器，令烟凝上，随得扫下。预于三日前，用脑麝别浸少油，倾入烟内和调匀，其墨可逾漆。一法旋剪麻油灯花，用尤佳。”这种烟薰的画眉材料，到了宋末元初，则被美其名曰“画眉集香圆”。元代之后，宫廷女子的画眉之黛，全部选用京西门头沟区斋堂特产的眉石，至明清也如此。到了20世纪20年代初，随着西洋文化的东渐，中国妇女的化妆品也发生了一系列的变化。画眉材料，尤其是杆状的眉笔和经过化学调制的黑色油脂。</span>
+	</p>
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;">　　来源：百度百科</span>
+	</p>
+</div>

@@ -1,0 +1,68 @@
+﻿<p style="text-align:center;">
+	<span style="font-size:16px;font-family:SimSun;"></span><span style="font-size:16px;font-family:SimSun;"></span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">来源：百度百科</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　为了保证进出口货物的安全交接，在整个运输过程中需要编制各种单据。这些单证各有其特定的用途，彼此之间又有相互依存的关系。它们既把船、港、货各方联系在一起，又能分清各自的权利和业务。</span>
+</p>
+<p>
+	<span style="line-height:1.5;font-size:16px;font-family:SimSun;">　　按实际业务程序介绍一些主要的货运单证。</span>
+</p>
+<p>
+	<span style="line-height:1.5;"><br />
+</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">托运单</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　托运单俗称“下货纸”，是托运人根据贸易合同和信用证条款内容填制的，向承运人或其代理办理货物托运的单证。承运人根据托运单内容，并结合船舶的航线、挂靠港、船期、舱位等条件考虑，认为合适后，即接受托运。</span><br />
+<p style="text-align:left;">
+	<img src="http://i1.tietuku.com/7be73a091c7b961bs.png" alt="QQ截图20150605153856" style="text-align:center;white-space:normal;" /><span style="font-size:16px;font-family:SimSun;"></span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">装货单</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　装货单是接受了托运人提出装运申请的船公司，签发给托运人，凭以命令船长将承运的货物装船的单据。装货单既可用作装船依据，又是货主凭以向海关办理出口货物申报手续的主要单据之一，所以装货单又称“关单”，对托运人而言，装货单是办妥货物托运的证明。对船公司或其代理而言，装货单是通知船方接受装运该批货物的指示文件。</span><br />
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">收货单</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　受货单又称大副收据，是船舶收到货物的收据及货物已经装船的凭证。船上大副根据理货人员在理货单上所签注的日期、件数及舱位，并与装货单进行核对后，签署大副收据。托运人凭大副签署过的大副收据，向承运人或其代理人换取已装船提单。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　由于上述三份单据的主要项目基本一致，中国一些主要口岸的做法是将托运单、装货单、收货单、运费通知单等合在一起，制成一份多达9联的单据。各联作用如下：第一联由订舱人留底，用于缮制船务单证。第二、三联为运费通知联，其中一联留存，另一联随帐单向托运人托收运费。第四联装货单经海关加盖放行章后，船方才能收货装船。第五联收货单及第六联由配舱人留底。第七、八联为配舱回单。第九联是缴纳出口货物港务费申请书。货物装船完毕后，港区凭以向托运人收取港杂费。</span><br />
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">海运提单</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　提单是一种货物所有权凭证。提单持有人可据以提取货物，也可凭此向银行押汇，还可在载货船舶到达目的港交货之前进行转让。</span><br />
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">装货清单</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　</span><span style="font-size:16px;font-family:SimSun;">装货清单是承运人根据装货单留底，将全船待装货物按目的港和货物性质归类，依航次、靠港顺序排列编制的装货单汇总清单，其内容包括装货单编号、货名、件数、包装形式、毛重、估计尺码及特种货物对装运的要求或注意事项的说明等。装货清单是船上大副编制配载计划的主要依据，又是供现场理货人员进行理货，港方安排驳运，进出库场以及承运人掌握情况的业务单据。</span><br />
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">舱单</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　舱单是按照货港逐票罗列全船载运货物的汇总清单。它是在货物装船完毕之后，由船公司根据收货单或提单编制的。其主要内容包括货物详细情况，装卸港、提单号、船名、托运人和收货人姓名、标记号码等。</span><br />
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">货物积载</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　货物积载图是按货物实际装舱情况编制的舱图。它是船方进行货物运输、保管和卸货工作的参考资料，也是卸港据以理货、安排泊位、货物进舱的文件。</span><br />
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">提货单</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　提货单是收货人凭正本提单或副本提单随同有效的担保向承运人或其代理人换取的、可向港口装卸部门提取货物的凭证。</span><br />

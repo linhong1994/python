@@ -1,0 +1,23 @@
+﻿<p>
+	<span style="font-size:16px;font-family:SimSun;">来源：百度百科</span> 
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　1、冷却液选择须谨慎</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　一辆北京BJ2021(切诺基)吉普，发动机出现少数缸不工作的现象，对汽车电路进行检查，未发现异常。检查配气机构，发现有一推力杆始终不动，原来是液力挺柱不工作所致。拆下挺柱，发现机油内有乳化物将挺柱的油孔堵塞。对机油进行检查，发现机油已经严重变质。</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　进一步检查，原来由于缸垫使用时间过长，而车主又一直未对缸盖螺栓进行紧固，导致冷却液渗入到曲轴箱内。那么，为什么冷却液进入到曲轴箱内会使机油产生沉淀呢？这辆车的冷却液采用的是乙二醇防冻液，乙二醇遇机油发生化学反应，产生沉淀物，堵塞了液压挺柱，幸好及时发现才没有造成大的损失。清洗油道，更换机油、缸垫，重新加满冷却液，着车后，一切正常。</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　2、简单故障不简单</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　一辆95款捷达车，踩制动踏板时制动器有异响，刚开始一踩踏板就产生“咕，咕”很钝的声音，轻踩制动踏板就没有异响，在平坦的公路上点制动时异响时有时无。</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　该车前几天进行了定期保养，没有发现什么问题，目视制动盘也没有伤痕，制动片的厚度尚存一半以上，不可能产生异响。又分别支起四轮转动和反复踩制动也没有发现毛病。路试，紧急制动时听到较大的响声。脚从踏板上移开的瞬间异响消失，倒车时异响相当小，而轻踩踏板无异响，逐渐踩踏板异响开始，并随着用力的不同异响也发生变化，拆检无异常。继续进行检查发现原来是散热器风扇电动机轴瓦烧坏，产生相当大的间隙，在踩制动时，电枢与定子相接触而产生异响，更换散热器风扇电动机后故障排除。</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　在实际维修中经常遇到类似的故障，例如感觉是变速器异响，检查后实际上是离合器的问题，往往越是简单的故障，在维修中最易产生错觉， 若检查判断不准或不正确，就会造成成本的增加和工期的延长，简单故障反而“不简单”了。</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　3、小沙粒埋藏大隐患</span><br />
+<span style="font-size:16px;font-family:SimSun;"> 　　一辆桑塔纳轿车大修后，出厂行驶数公里后，突然出现离合器分离不彻底的现象，最后导致离合器完全不起作用。停车检查车辆，发现离合器分泵处有泄漏。拆下分泵进一步分解检查，发现分泵皮碗和缸壁间夹有沙粒。原来此车大修时未注意机件的清洁，使沙粒夹在皮碗和缸壁之间，当每次踏下离合器时，由于液体压力增高，导致泄漏。将沙粒去除，重新加入制动液，放气后使用，故障排除。</span> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;white-space:normal;table-layout:fixed;">
+	<br />
+</p>
+<p style="text-align:center;margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;white-space:normal;table-layout:fixed;">
+	<img style="border-color:currentcolor;border-image-source:none;max-width:100%;" alt="" src="http://37t.cn/uploads/n/npcykf1433812173/6/a/4/a/55764e3a31a13.jpg" /><span style="font-size:16px;font-family:SimSun;">&nbsp;</span> 
+</p>
+<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;white-space:normal;table-layout:fixed;">
+	<br />
+</p>

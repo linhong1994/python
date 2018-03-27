@@ -1,0 +1,42 @@
+﻿<p style="text-align:center;">
+	<span style="font-size:16px;font-family:SimSun;"></span><img src="http://i1.tietuku.com/0b5f1c4add82f1a6s.jpg" alt="QQ截图20150710113838_看图王" /><span style="font-size:16px;font-family:SimSun;"></span><span style="font-size:16px;font-family:SimSun;"></span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">来源：百度百科</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">一、电气操作人员的资格和要求：</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　（一）电气作业必须经过专业培训，考试合格，持有电工作业操作证的人员担任。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（二）电气作业人员因故间断电气工作连续六个月以上者，必须重新考试合格，方能工作。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（三）电气人员必须严格执行国家的安全作业规定。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（四）电气工作人员必须严格熟悉有关消防知识，能正确使用消防用具和设备，熟知人身触电紧急救护方法。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（五）变、配电所及电工班要根据本岗位的实际情况和季节特点，制定完善各项规章制度和相应的岗位责任制。做好预防工作和安全检查，发现问题及时处理。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（六）现场要备有安全用具、防护用具和消防器材等。并定期进行检查试验。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（七）、易燃、易爆场所的电气设备和线路的运行及检修，必须按照国家有关标准执行。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（八）电气设备必须有可靠的接地（接零），防雷和防静电设施必须完好，并定期检测。</span><br />
+<span style="font-size:16px;font-family:SimSun;">二、高压电气安全操作规程：</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（一）凡是高压设备停电或检修、及主要电器设备大、中检修，高低压架空线路，都必须按照《电业局电气安全工作规定》及有关规定办理工作票及各种票证。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（二）工作票签发人必须按工作票内容一项不漏地填写清楚，若发现缺项漏填，字迹了草难辨或有涂改者，该工作票视为无效，由主管矿长审批，机电矿长负责组织实施。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（三）检修工作人员，接到工作票以后，要认真进行查看，认为没有差错后，按要求严格执行，若不按工作票操作，造成事故，由检修人员负责。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（四）检修人员发现工作票有问题，可当面提出，请求更改，如不更正造成事故由最后指令人负责。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（五）在紧急、特殊情况（如危害人身安全或重大损失）来不及办理工作票，可由业务主管矿长口头命令或电话命令进行倒闸操作，操作人员必须做好记录备查。</span><br />
+<span style="font-size:16px;font-family:SimSun;">三、电气设备检修操作规程：</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（一）凡检修的电气设备停电后，必须进行验电，验电器应符合电压等级，高压部分必须戴绝缘手套，确认无电后，打好接地线，手持红外线绝缘棒进行对地放电。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（二）在停电线路的刀闸手柄上，悬挂"禁止合闸，有人工作"的警告牌，在不停电部位的安全围栏外应悬挂"高压有电，禁止入内"的标志牌。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（三）对停电超过4小时有保险器装置的关键设备应将保险拔掉。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　</span><span style="font-size:16px;font-family:SimSun;">（四）、检修工作结束后，拆除接地线，人员撤离现场，交回工作票，摘掉警告牌后方准恢复送电。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（五）严禁带电检修各种电气设备。</span><br />
+<span style="font-size:16px;font-family:SimSun;">四、矿区架空线路操作规程：</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（一）矿区架空线及线杆在检修之前，必须由带班长或负责人全面检查，确实无缺陷，不危及人身安全和作业安全方可进行作业。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（二）架空线路登高作业，必须按照登高作业规定，对登杆器具，要有专人认真检查，是否完好可靠，上下传递物品要用小绳，杆下应设监护人，严禁非工作人员进入作业区，监护人员必须戴安全帽，并要保持一定距离，避免操作人员掉下物品工具，造成伤亡事故。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（三）在高低压同杆线路上作业，在一条线路带电的情况下，由车间采取安全措施，报主管厂长批准后，才能进行作业。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（四）两条或两条以上同杆低压线路在生产抢修时，因停电影响重要岗位生产的情况下进行抢修，必须专业矿长在现场进行监护，才能进行此项作业。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（五）线路巡视每季至少一次，每年登杆检查一次（包括擦拭瓷瓶，巡视检查单位要有记录，以备查）其导线的弧度和线间平行度应符合规定要求。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　（六）五级以上大风时，严禁在架空线上作业。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第一条为加强对电气设备的维护，确保其安全运行，合理使用，特制定本规程。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第二条对于电气设备的启动、停止，运行要严格执行停、送电牌制度感和交接班制度。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第三条巡视检查运行中的电气设备，必须严格遵守《电气安装规程》。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第四条值班人员应酌情用量、看、摸、听、嗅的方法，掌握电气设备的运行情况，以便及时发现问题，处理隐患。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第五条电气设备严禁在过载、超温、超速和无保护的情况下强制运行。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　第六条值班人员应充分利用停车时间，对电气设备清擦、除尘、检查、维护、专检。</span><br />

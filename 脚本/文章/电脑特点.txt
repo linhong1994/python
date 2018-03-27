@@ -1,0 +1,18 @@
+﻿<p style="text-align:center;">
+	<span style="font-size:16px;font-family:SimSun;"><img src="/uploads/h/hytsey1437706852/0/4/c/7/55b1b2cec583f.jpg" alt="" /><br />
+</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　运算速度快：计算机内部电路组成，可以高速准确地完成各种算术运算。当今计算机系统的运算速度已达到&nbsp;</span>
+</p>
+<span style="font-size:16px;font-family:SimSun;">　　不同种类的计算机</span><span style="font-size:16px;font-family:SimSun;">每秒万亿次，微机也可达每秒亿次以上，使大量复杂的科学计算问题得以解决。例如：卫星轨道的计算、大型水坝的计算、24小时天气算需要几年甚至几十年，而在现代社会里，用计算机只需几分钟就可完成。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　计算精确度高：科学技术的发展特别是尖端科学技术的发展，需要高度精确的计算。计算机控制的导弹之所以能准确地击中预定的目标，是与计算机的精确计算分不开的。一般计算机可以有十几位甚至几十位（二进制）有效数字，计算精度可由千分之几到百万分之几，是任何计算工具所望尘莫及的。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　逻辑运算能力强：计算机不仅能进行精确计算，还具有逻辑运算功能，能对信息进行比较和判断。计算机能把参加运算的数据、程序以及中间结果和最后结果保存起来，并能根据判断的结果自动执行下一条指令以供用户随时调用。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　存储容量大：计算机内部的存储器具有记忆特性，可以存储大量的信息，这些信息，不仅包括各类数据信息，还包括加工这些数据的程序。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　自动化程度高：由于计算机具有存储记忆能力和逻辑判断能力，所以人们可以将预先编好的程序组纳入计算机内存，在程序控制下，计算机可以连续、自动地工作，不需要人的干预。</span><br />
+<p>
+	<span style="font-size:16px;font-family:SimSun;">　　性价比高：几乎每家每户都会有电脑，越来越普遍化、大众化，22世纪电脑必将成为每家每户不可缺少的电器之一。计算机发展很迅速，有台式的还有笔记本。</span>
+</p>
+<p>
+	<span style="font-size:16px;font-family:SimSun;">&lt;来源：百度百科&gt;</span>
+</p>

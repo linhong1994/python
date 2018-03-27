@@ -1,0 +1,24 @@
+﻿<div class="showpic" style="margin:0px;padding:0px;line-height:normal;white-space:normal;">
+	<img src="http://37t.cn/uploads/v/vvrsme1434076671/e/0/6/d/thumb_557b926e7bac3.png" style="width:621px;margin-top:5px;" />
+</div>
+<div class="text" id="content" style="margin:15px 0px;padding:0px;line-height:normal;white-space:normal;">
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;">　　审批</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　①门店营业执照或工商名称核准字号复印件2份；</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　②租赁合同复印件2份；</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　广告牌</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　③户外广告牌效果图2份（效果图需彩色，拍摄时要把门口上下80CM左右的情况都拍下来）；</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　④申请报告（包括设置地点、发布时间、内容、形式、规格、数量；壹式两份）；</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　⑤产权证复印件2份；</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　⑥门店方位图1份；（可以从百度或者其他网站下载，但一定要在地图上标出店铺的具体位置）；</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　在杭州可去所在地区办证大厅办理，如你的材料给城管看后会帮你审核，如城管的受理大厅受理后，会在一一周内有城管工作人员看现场，之后层层领导批阅同意，再转到工商审核内容，如有一个环节不同意，就意味审批不成功。在这也许本公司可以帮你打通各个环节，共同努力来提升你的企业形象。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　如果未经审批，强行设置的话要先拆除，再处以罚款，然后再审批就更麻烦，代价更高。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　广告的规格每个小区都不一样的，工商和城管都没有做出规定，具体要看房子的外部结构。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　广告牌在生产运作中，都有两个功能：指示生产工序制造产品，和指示材料操作员搬运产品。前一种称为生产广告牌（或制造广告牌），后一种称为取货广告牌（或提取广告牌)。生产广告牌把下游工序所需要的产品类型、数量告诉上游工序。最简单的情况例如，上游工序提前准备一张与“一箱零件”相对应的生产广告牌，将它与一箱零件同时放在库存超市中。当一箱零件被取走，制造广告牌就被用来启动生产。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　有些信号广告牌的外形是三角形的，因此也被称为三角广告牌。</span><br />
+<span style="font-size:16px;font-family:SimSun;">　　提取广告牌指示把零件运输到下游工序。通常有两种形式：内部广告牌和供应商广告牌。当初，在丰田市市区里，这两种形式都广泛使用卡片，然而当精益生产广泛应用之后，那些离工厂较远的供应商，就改为采用电子形式的广告牌了。要创造一个拉动系统，必须同时使用生产和提取广告牌：在下游工序，操作员从货箱中取出第一个产品的时候，就取出一张提取广告牌并将它放到附近的一个广告牌盒里。当搬运员回到价值流上游的库存超市时，把这块提取广告牌放到另一个广告牌盒里，指示上游工序再生产一箱零件。只有在“见不到广告牌，就不去生产，或者搬运产品”的情况下，才是一个真正的拉动系统。</span>
+	</p>
+	<p style="margin-top:0px;margin-bottom:0px;padding:0px;line-height:24px;table-layout:fixed;">
+		<span style="font-size:16px;font-family:SimSun;">　　来源：百度百科</span>
+	</p>
+</div>
